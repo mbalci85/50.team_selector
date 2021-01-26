@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+	background-image: url('./back.png');
+	background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+	background-size: cover;
+	overflow: hidden;
+	font-size: larger;
+}
